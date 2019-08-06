@@ -1,0 +1,14 @@
+C:\Anoop\Projects\Kitchen\graphQLDotnet\GraphQLDotnetWebApi\GraphQLDotnetWebApi\bin\Debug\netcoreapp2.2\GraphQLDotnetWebApi.deps.json
+C:\Anoop\Projects\Kitchen\graphQLDotnet\GraphQLDotnetWebApi\GraphQLDotnetWebApi\bin\Debug\netcoreapp2.2\GraphQLDotnetWebApi.runtimeconfig.json
+C:\Anoop\Projects\Kitchen\graphQLDotnet\GraphQLDotnetWebApi\GraphQLDotnetWebApi\bin\Debug\netcoreapp2.2\GraphQLDotnetWebApi.runtimeconfig.dev.json
+C:\Anoop\Projects\Kitchen\graphQLDotnet\GraphQLDotnetWebApi\GraphQLDotnetWebApi\bin\Debug\netcoreapp2.2\GraphQLDotnetWebApi.dll
+C:\Anoop\Projects\Kitchen\graphQLDotnet\GraphQLDotnetWebApi\GraphQLDotnetWebApi\obj\Debug\netcoreapp2.2\GraphQLDotnetWebApi.csprojAssemblyReference.cache
+C:\Anoop\Projects\Kitchen\graphQLDotnet\GraphQLDotnetWebApi\GraphQLDotnetWebApi\obj\Debug\netcoreapp2.2\GraphQLDotnetWebApi.csproj.CoreCompileInputs.cache
+C:\Anoop\Projects\Kitchen\graphQLDotnet\GraphQLDotnetWebApi\GraphQLDotnetWebApi\obj\Debug\netcoreapp2.2\GraphQLDotnetWebApi.RazorAssemblyInfo.cache
+C:\Anoop\Projects\Kitchen\graphQLDotnet\GraphQLDotnetWebApi\GraphQLDotnetWebApi\obj\Debug\netcoreapp2.2\GraphQLDotnetWebApi.RazorAssemblyInfo.cs
+C:\Anoop\Projects\Kitchen\graphQLDotnet\GraphQLDotnetWebApi\GraphQLDotnetWebApi\obj\Debug\netcoreapp2.2\GraphQLDotnetWebApi.AssemblyInfoInputs.cache
+C:\Anoop\Projects\Kitchen\graphQLDotnet\GraphQLDotnetWebApi\GraphQLDotnetWebApi\obj\Debug\netcoreapp2.2\GraphQLDotnetWebApi.AssemblyInfo.cs
+C:\Anoop\Projects\Kitchen\graphQLDotnet\GraphQLDotnetWebApi\GraphQLDotnetWebApi\obj\Debug\netcoreapp2.2\GraphQLDotnetWebApi.RazorTargetAssemblyInfo.cache
+C:\Anoop\Projects\Kitchen\graphQLDotnet\GraphQLDotnetWebApi\GraphQLDotnetWebApi\bin\Debug\netcoreapp2.2\GraphQLDotnetWebApi.pdb
+C:\Anoop\Projects\Kitchen\graphQLDotnet\GraphQLDotnetWebApi\GraphQLDotnetWebApi\obj\Debug\netcoreapp2.2\GraphQLDotnetWebApi.dll
+C:\Anoop\Projects\Kitchen\graphQLDotnet\GraphQLDotnetWebApi\GraphQLDotnetWebApi\obj\Debug\netcoreapp2.2\GraphQLDotnetWebApi.pdb
