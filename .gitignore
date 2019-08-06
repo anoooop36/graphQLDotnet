@@ -3,3 +3,6 @@
 ################################################################################
 
 /graphql-console/.vs/graphql-console/v16/Server/sqlite3
+/graphql-console/.vs/graphql-console/v16/.suo
+/graphql-console/graphql-console/obj
+/graphql-console/graphql-console/bin/Debug/netcoreapp2.2
